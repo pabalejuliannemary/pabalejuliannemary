@@ -9,7 +9,7 @@ Since I’m drawn to designing, my goal is to explore **UI/UX and web developmen
 ## 💻 Skills
 
 - Currently learning and developing skills in **Python, SQL, PHP, HTML** and **CSS**
-- Most interested in **UI/UX Design**
+- Most interested in **UI/UX and Frontend Development**
 
 ## 💌 Contact
 
